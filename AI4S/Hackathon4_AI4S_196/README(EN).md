@@ -1,13 +1,13 @@
 # User Guide
 <u>_wanghanweibnds2015@gmail.com_</u>
 
----
+
 
 English | [简体中文](./README(ZH).md)
 
 ## Introduction
 
----
+
 
 Supervised data is commonly used when PINN method adopted.
 Design of this suite is to extract pre-calculated CFD results
@@ -16,17 +16,17 @@ easily read under the framework of PaddleScience. OpenFOAM's data is now support
 
 ## Getting Started
 
----
+
 
 ### Download dependencies
 
----
+
 
 `pip install -r dependencies/requirements.txt`
 
 ### Run examples
 
----
+
 
 Simple examples could be found in directory `demo`.
 An OpenFOAM case of cavity calculated by icoFoam solver is used to demonstrate the usage.
@@ -48,6 +48,6 @@ python insert_from_cavity.py
 
 ## API reference
 
----
+
 
 [![Documentation Status](https://img.shields.io/badge/API_reference-blue.svg)](./doc/API-reference.md)

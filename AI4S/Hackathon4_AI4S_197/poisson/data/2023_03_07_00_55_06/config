@@ -1,0 +1,9 @@
+adam_iter = 15000
+bfgs_iter = 1000
+Nf = 2000
+save_path = ./data/2023_03_07_00_55_06
+verbose = False
+repeat = 1
+start_epoch = 0
+num_layers = 4
+num_neurons = 50

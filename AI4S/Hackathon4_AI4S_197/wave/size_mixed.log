@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "wave_eq_size.py", line 4, in <module>
+    from wave_eq import *
+  File "/Users/dingsiqi/Desktop/learning/PINN/paddle_Paper_reproduction/paddle_pinn/wave/wave_eq.py", line 11, in <module>
+    from basic_model import DeepModelSingle
+ModuleNotFoundError: No module named 'basic_model'
